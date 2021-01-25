@@ -1,10 +1,12 @@
+<section class="section">
+	<div class="container-sm py-4 text-center">
+		<div class="row">
+			<div class="col-md-12">
+		
+				<h2 class="my-4 text-uppercase fs-2"><?= $data['title']; ?></h2>
+				<p class="fs-5"><?= $data['text']; ?></p>
 
-<div class="container py-4 border-bottom">
-	<div class="row">
-		<div class="col-md-8 m-auto">
-	
-			<h3><?= $data['title']; ?></h3>
-			<p><?= $data['text']; ?></p>
+			</div>
 		</div>
 	</div>
-</div>
+</section>

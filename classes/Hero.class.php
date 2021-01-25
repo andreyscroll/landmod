@@ -13,8 +13,7 @@ class Hero extends Modules
             ':title' => $arr['title'],
             ':subtitle' => $arr['subtitle'],
             ':btn_text' => $arr['btn_text'],
-            ':btn_url' => $arr['btn_url'],
-            ':bg_img' => $arr['bg_img']
+            ':btn_url' => $arr['btn_url']
         ]);
 	}
 
