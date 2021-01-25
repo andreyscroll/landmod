@@ -1,5 +1,3 @@
 
-public/img/**/
+/public/img/
 public/css/bootstrap.min.css
-query.php
-classes.php
